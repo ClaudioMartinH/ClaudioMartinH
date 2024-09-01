@@ -23,13 +23,15 @@
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
+![Socket.io](https://img.shields.io/badge/socket.io-v4.7.5-green)
+
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 </h5>
 
 ---
 <h4 align="center">Right now i'm finishing my Specialisation in Backend Development with NodeJs, learning and applying all the knowledge in a few projects you can find here, in my Github page.</h4>
 
-<h5 align="center">Some of them are those 👇</h5>
+<h5 align="center">Some of them are here 👇</h5>
 
 
 - [Simple ToDo List, developed with Typescript & Node, with a simple CSS Frontend](https://github.com/ClaudioMartinH/entrega-1.1.git)
