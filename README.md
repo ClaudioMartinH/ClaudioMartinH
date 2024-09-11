@@ -34,6 +34,7 @@
 <h5 align="center">Some of them are here 👇</h5>
 
 
+- [Real time chat app with socket.io server, express, mongodb and Bootstrap frontend made entirely on Typescript](https://github.com/ClaudioMartinH/7.1-claudimartin-chat-app.git)
 - [Simple ToDo List, developed with Typescript & Node, with a simple CSS Frontend](https://github.com/ClaudioMartinH/entrega-1.1.git)
 - [ToDo List Rest Service, with an API REST, and simple authentication](https://github.com/ClaudioMartinH/4.1-Claudio-Martin.git)
 - [Modelling relational DB with MySQL](https://github.com/ClaudioMartinH/5.1-Claudio-Martin.git)
