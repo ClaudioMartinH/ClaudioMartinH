@@ -1,60 +1,30 @@
-<h3>Hi there 👋</h3>
+# 💫 About Me
 
+I am a software developer passionate about technology, specialized in web development with Node.js, and experienced in various technologies. I love facing new challenges and growing with them. I have strong self-learning skills and enjoy getting to know in-depth all the technologies I work with.
 
-<p align="center"> <img width=200px height=200px src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b76111k8zbk2mdw2sywcxzgo741jfzi5ao0q51rfafmj7&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Project logo"></p>
+## 🌐 Socials
 
-<h5 align="center">Hello I'm Claudio Martin, welcome to my Github page</h5>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/claudio-martin-herranz) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@martinherranzc)
 
-<h5 align="center"> MY TECH STACK
+# 💻 Tech Stack
 
-----
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+# 📊 GitHub Stats
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://github-readme-stats.vercel.app/api?username=ClaudioMartinH&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ClaudioMartinH&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioMartinH&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+## 🏆 GitHub Trophies
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://github-profile-trophy.vercel.app/?username=ClaudioMartinH&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+### 🔝 Top Contributed Repo
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-![Socket.io](https://img.shields.io/badge/socket.io-v4.7.5-green)
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-</h5>
+![](https://github-contributor-stats.vercel.app/api?username=ClaudioMartinH&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-<h4 align="center">Right now i'm finishing my Specialisation in Backend Development with NodeJs, learning and applying all the knowledge in a few projects you can find here, in my Github page.</h4>
+[![](https://visitcount.itsvg.in/api?id=ClaudioMartinH&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h5 align="center">Some of them are here 👇</h5>
-
-
-- [Real time chat app with socket.io server, express, mongodb and Bootstrap frontend made entirely on Typescript](https://github.com/ClaudioMartinH/7.1-claudimartin-chat-app.git)
-- [Simple ToDo List, developed with Typescript & Node, with a simple CSS Frontend](https://github.com/ClaudioMartinH/entrega-1.1.git)
-- [ToDo List Rest Service, with an API REST, and simple authentication](https://github.com/ClaudioMartinH/4.1-Claudio-Martin.git)
-- [Modelling relational DB with MySQL](https://github.com/ClaudioMartinH/5.1-Claudio-Martin.git)
-- [Modelling non relational DB with MongoDB](https://github.com/ClaudioMartinH/5.3-Claudio-Martin.git)
-
-<h5 align="Center">Keep visiting my page, and you'll see this page growing whilrst I add more Projects<br>Thanks for visiting and don't forget to follow me!! </h5>
-
-<p align="center"> <img width=200px height=200px src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif?cid=790b76118lqi1b8us6oifq9ntqozpacxquh5jttksuzmjrz8&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Project logo"></p>
-
-<!--
-**ClaudioMartinH/ClaudioMartinH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
