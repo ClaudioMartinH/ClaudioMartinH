@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./logo-claudi-long.jpeg" alt="Imagen de cabecera">
+</div>
+
 # 💫 About Me
 
 I am a software developer passionate about technology, specialized in web development with Node.js, and experienced in various technologies. I love facing new challenges and growing with them. I have strong self-learning skills and enjoy getting to know in-depth all the technologies I work with.
