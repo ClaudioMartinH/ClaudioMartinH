@@ -29,12 +29,7 @@ jobs:
             librsvg2-dev \
             pkg-config
 
-      - name: Install Canvas Globally
-        run: |
-          npm install -g canvas
-          npm install -g @types/canvas
-
-      - name: Install Local Canvas
+      - name: Install Canvas
         run: |
           npm init -y
           npm install canvas
@@ -55,7 +50,7 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
+          branch: main
           force: true
 
       - name: Deploy to GitHub Pages
